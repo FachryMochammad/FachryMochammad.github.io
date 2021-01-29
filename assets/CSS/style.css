@@ -91,7 +91,7 @@ header .logo {
 }
 
 header.sticky .logo {
-  transition: .5s;
+  transition: 0.5s;
   width: 5%;
   top: 12px;
 }
