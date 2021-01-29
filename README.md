@@ -1,2 +1,3 @@
 # FachryMochammad.github.io
-Ini adalah sebuah website Coffee Shop yang dibuat dengan HTML, CSS, dan JavaScript.
+Mochammad Fachry Sumantri: Istanbul-Fox Phase 0 Final Project.
+Coffee Shop website using HTML, CSS, and JavaScript.
