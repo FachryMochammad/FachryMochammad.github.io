@@ -91,8 +91,9 @@ header .logo {
 }
 
 header.sticky .logo {
-  width: 5.5%;
-  top: 0;
+  transition: .5s;
+  width: 5%;
+  top: 12px;
 }
 
 header .nav {
@@ -209,7 +210,7 @@ section {
 
 .row .col50 .imgBox img {
   position: relative;
-  left: 750px;
+  left: 730px;
   bottom: 280px;
   max-width: 330px;
 }
